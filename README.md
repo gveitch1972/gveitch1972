@@ -25,7 +25,7 @@ Senior engineer with 25+ years building production systems across finance, banki
 | [signaldesk-ai](https://github.com/gveitch1972/signaldesk-ai) | Market briefings and Q&A from Databricks data via Azure OpenAI |
 | [n8n-azure-deploy](https://github.com/gveitch1972/n8n-azure-deploy) | Full n8n deploy including infra — Azure Container Apps, Bicep, private PostgreSQL networking, one command |
 | [argos](https://github.com/gveitch1972/argos) | macOS menu bar app for Xreal Air 2 Pro — stable virtual AR displays without Nebula |
-| SecureLLM | Drop-in Python clients for cloud (OpenAI) and local (Transformers) inference — same interface, swap at runtime; includes infra build and teardown |
+| [SecureLLM](https://github.com/gveitch1972/SecureLLM) | Drop-in Python clients for cloud (OpenAI) and local (Transformers) inference — same interface, swap at runtime; includes infra build and teardown |
 | ios-email-triage | Native iOS app (Swift/SwiftUI) — AI-powered Gmail triage; classifies inbox, applies labels, live on TestFlight; Google OAuth verification in progress |
 | ai-interview-agent | Voice agent that takes phone interviews — real-time dynamic context injection per role; ElevenLabs + n8n, STAR story bank, role-specific briefing at call-start |
 | nova (n8n-personal-janitor) | Personal AI voice assistant — ElevenLabs Conversational AI, multi-agent n8n orchestration; sub-agents for calendar, email, and task handling |
