@@ -20,7 +20,7 @@ Senior engineer with 25+ years building production systems across finance, banki
 
 | Project | What it is |
 |---|---|
-| [jobpulse](https://github.com/gveitch1972/jobpulse) | Live job market intelligence platform — EventBridge-triggered ingestion, EC2 Spring Boot consumer, SQS, MongoDB Atlas, Lambda API, React dashboard; live at [jobpulse.grahamveitch.com](https://jobpulse.grahamveitch.com) |
+| jobpulse | Live job market intelligence platform — EventBridge-triggered ingestion, EC2 Spring Boot consumer, SQS, MongoDB Atlas, Lambda API, React dashboard; live at [jobpulse.grahamveitch.com](https://jobpulse.grahamveitch.com) |
 | [financial-signals-lakehouse](https://github.com/gveitch1972/financial-signals-lakehouse) | Production-ready Databricks medallion pipeline — Asset Bundles, market + macro ingestion, Unity Catalog, Delta Lake, 5-page Power BI report |
 | [signaldesk-ai](https://github.com/gveitch1972/signaldesk-ai) | Market briefings and Q&A from Databricks data via Azure OpenAI |
 | [n8n-azure-deploy](https://github.com/gveitch1972/n8n-azure-deploy) | Full n8n deploy including infra — Azure Container Apps, Bicep, private PostgreSQL networking, one command |
