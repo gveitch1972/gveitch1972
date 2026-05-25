@@ -26,6 +26,8 @@ Senior engineer with 25+ years building production systems across finance, banki
 | [n8n-azure-deploy](https://github.com/gveitch1972/n8n-azure-deploy) | Full n8n deploy including infra — Azure Container Apps, Bicep, private PostgreSQL networking, one command |
 | [argos](https://github.com/gveitch1972/argos) | macOS menu bar app for Xreal Air 2 Pro — stable virtual AR displays without Nebula |
 | [SecureLLM](https://github.com/gveitch1972/SecureLLM) | Drop-in Python clients for cloud (OpenAI) and local (Transformers) inference — same interface, swap at runtime; includes infra build and teardown |
-| [ios-email-triage](https://github.com/gveitch1972/ios-email-triage) | Native iOS app (Swift/SwiftUI) — AI-powered Gmail triage; classifies inbox, applies labels, live on TestFlight; Google OAuth verification in progress |
-| [ai-interview-agent](https://github.com/gveitch1972/ai-interview-agent) | Voice agent that takes phone interviews — real-time dynamic context injection per role; ElevenLabs + n8n, STAR story bank, role-specific briefing at call-start |
+| ios-email-triage | Native iOS app (Swift/SwiftUI) — AI-powered Gmail triage; classifies inbox, applies labels, live on TestFlight; Google OAuth verification in progress |
+| ai-interview-agent | Voice agent that takes phone interviews — real-time dynamic context injection per role; ElevenLabs + n8n, STAR story bank, role-specific briefing at call-start |
+| nova (n8n-personal-janitor) | Personal AI voice assistant — ElevenLabs Conversational AI, multi-agent n8n orchestration; sub-agents for calendar, email, and task handling |
+| ai-business-services | Productised AI voice receptionist for UK SMBs — Twilio inbound, ElevenLabs agent, appointment booking, quote capture, emergency escalation; deployable per client in hours |
 | [inject_doc_header](https://github.com/gveitch1972/inject_doc_header) | Built in less than half a day with my good friend Claude after a recruitment specialist flagged the problem — CLI tool to extract Word headers into a reusable pool and inject into other documents; multiple extraction and injection modes |
